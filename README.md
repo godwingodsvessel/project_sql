@@ -112,7 +112,7 @@ _Key skills for these top roles include SQL, Python, and specialized cloud or da
 **File:** `top_demanded_skill.sql`
 
 **Summary:**
-This analysis identifies the top 5 most in-demand skills for Data Analyst positions in Africa. Demand signals market validation—skills appearing frequently in job postings indicate what employers genuinely need. This helps job seekers understand baseline competencies that increase employability.
+This analysis identifies the top 5 most in-demand skills for Data Analyst positions in Africa. Demand signals market validation, skills appearing frequently in job postings indicate what employers genuinely need. This helps job seekers understand baseline competencies that increase employability.
 
 **Key Findings:**
 
@@ -151,7 +151,7 @@ _SQL and Excel are the most demanded skills, highlighting the importance of foun
 **File:** `top_paying_skills.sql`
 
 **Summary:**
-This analysis identifies skills associated with the highest average salaries for Data Analysts. While some skills may not be as widely demanded, they command premium compensation. These "niche" skills often represent specialization opportunities—learning them can differentiate you in the job market and unlock higher-paying positions.
+This analysis identifies skills associated with the highest average salaries for Data Analysts. While some skills may not be as widely demanded, they command premium compensation. These "niche" skills often represent specialization opportunities, learning them can differentiate you in the job market and unlock higher-paying positions.
 
 **Key Findings:**
 
@@ -320,7 +320,7 @@ For this deep dive into the data analyst job market, I leveraged a powerful stac
 
 ### Professional Insights
 
-- **Employer Priorities:** Top-paying companies invest in specific skill sets—learn what's valued
+- **Employer Priorities:** Top-paying companies invest in specific skill sets, learn what's valued
 - **Market Demand Signals:** Demand count indicates job security and competitive advantage
 - **Continuous Learning:** The skills that pay well today inform the tech stack of tomorrow
 - **Documentation Matters:** Clear README files make analysis reproducible and shareable
@@ -339,10 +339,10 @@ By analyzing the results of these queries, you can chart an informed path for ca
 
 - **High Paying but Low Demand?** → _A secondary skill for specialization._
 
-  - Example: **Snowflake** or **PySpark** might command higher salaries but have fewer postings—learn after mastering the fundamentals.
+  - Example: **Snowflake** or **PySpark** might command higher salaries but have fewer postings, learn after mastering the fundamentals.
 
 - **High Demand but Lower Pay?** → _Essential baseline competencies._
-  - Example: **Excel** may be everywhere but with lower salary premiums—still foundational and expected.
+  - Example: **Excel** may be everywhere but with lower salary premiums still foundational and expected.
 
 **Action Items:**
 
@@ -369,4 +369,4 @@ Ideal for building a portfolio or refining SQL skills for data analyst positions
 
 ## Questions? Feedback?
 
-Feel free to explore the SQL files, modify queries for your specific needs, and adapt the analysis to different regions or job titles. Data storytelling is as much art as it is science—make it yours!
+Feel free to explore the SQL files, modify queries for your specific needs, and adapt the analysis to different regions or job titles. Data storytelling is as much art as it is science, make it yours!
